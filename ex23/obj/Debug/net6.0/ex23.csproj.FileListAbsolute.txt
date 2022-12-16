@@ -1,0 +1,15 @@
+C:\olya\C#\sem3\ex23\bin\Debug\net6.0\ex23.exe
+C:\olya\C#\sem3\ex23\bin\Debug\net6.0\ex23.deps.json
+C:\olya\C#\sem3\ex23\bin\Debug\net6.0\ex23.runtimeconfig.json
+C:\olya\C#\sem3\ex23\bin\Debug\net6.0\ex23.dll
+C:\olya\C#\sem3\ex23\bin\Debug\net6.0\ex23.pdb
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\ex23.csproj.AssemblyReference.cache
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\ex23.GeneratedMSBuildEditorConfig.editorconfig
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\ex23.AssemblyInfoInputs.cache
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\ex23.AssemblyInfo.cs
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\ex23.csproj.CoreCompileInputs.cache
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\ex23.dll
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\refint\ex23.dll
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\ex23.pdb
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\ex23.genruntimeconfig.cache
+C:\olya\C#\sem3\ex23\obj\Debug\net6.0\ref\ex23.dll
